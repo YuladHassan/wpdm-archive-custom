@@ -1,0 +1,239 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WPDM - Archive Page\n"
+"POT-Creation-Date: 2022-10-09 17:12+0600\n"
+"PO-Revision-Date: 2021-09-05 14:13+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpdm-archive-page.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: assets/js/scripts.js:110
+msgid "Loading"
+msgstr ""
+
+#: assets/js/scripts.js:148 assets/js/scripts.js:311
+#: src/Templates/SimpleSearch/views/simple-search-form.php:24
+msgid "Search Result For"
+msgstr ""
+
+#: assets/js/scripts.js:148
+msgid "in category"
+msgstr ""
+
+#: assets/js/scripts.js:320 src/Templates/Compact/views/breadcrumb.php:7
+#: src/Templates/Flat/views/breadcrumb.php:7
+#: src/Templates/Simple/views/breadcrumb.php:7
+#: src/Templates/Singular/views/breadcrumb.php:7
+#: src/Templates/Starter/views/breadcrumb.php:7
+msgid "All Downloads"
+msgstr ""
+
+#: src/Templates/Category/views/category-blocks.php:31
+#, php-format
+msgid "%s items"
+msgstr ""
+
+#: src/Templates/Category/views/category-blocks.php:32
+msgid "Explore"
+msgstr ""
+
+#: src/Templates/Compact/views/breadcrumb.php:6
+#: src/Templates/Flat/views/aps-content-cat.php:13
+#: src/Templates/Flat/views/aps-content-pack.php:10
+#: src/Templates/Flat/views/breadcrumb.php:6
+#: src/Templates/Simple/views/breadcrumb.php:6
+#: src/Templates/Singular/views/breadcrumb.php:6
+#: src/Templates/Starter/views/breadcrumb.php:6
+msgid "Home"
+msgstr ""
+
+#: src/Templates/Compact/views/content.php:8
+#: src/Templates/Filter/views/content.php:8
+#: src/Templates/Flat/views/content.php:8
+#: src/Templates/Simple/views/content.php:8
+#: src/Templates/Singular/views/content.php:8
+#: src/Templates/Starter/views/content.php:8
+msgid "Select category or search..."
+msgstr ""
+
+#: src/Templates/Compact/views/header.php:8
+#: src/Templates/Compact/views/header.php:10
+#: src/Templates/Filter/views/header.php:8
+#: src/Templates/Filter/views/header.php:10
+#: src/Templates/Flat/views/header.php:11
+#: src/Templates/Simple/views/header.php:8
+#: src/Templates/Simple/views/header.php:10
+#: src/Templates/Singular/views/header.php:8
+#: src/Templates/Singular/views/header.php:10
+#: src/Templates/Starter/views/header.php:11
+msgid "Search"
+msgstr ""
+
+#: src/Templates/Compact/views/header.php:18
+msgid "Category:"
+msgstr ""
+
+#: src/Templates/Compact/views/header.php:20
+msgid "Select category"
+msgstr ""
+
+#: src/Templates/Compact/views/header.php:27
+#: src/Templates/Filter/views/header.php:20
+#: src/Templates/Flat/views/header.php:20
+#: src/Templates/Simple/views/header.php:18
+#: src/Templates/Singular/views/header.php:18
+#: src/Templates/Starter/views/header.php:20
+msgid "Order By:"
+msgstr ""
+
+#: src/Templates/Compact/views/header.php:31
+#: src/Templates/Filter/views/header.php:24
+#: src/Templates/Flat/views/header.php:24
+#: src/Templates/Simple/views/header.php:22
+#: src/Templates/Singular/views/header.php:22
+#: src/Templates/Starter/views/header.php:24
+msgid "Order:"
+msgstr ""
+
+#: src/Templates/Compact/views/header.php:33
+#: src/Templates/Filter/views/header.php:26
+#: src/Templates/Flat/views/header.php:26
+#: src/Templates/Simple/views/header.php:24
+#: src/Templates/Singular/views/header.php:24
+#: src/Templates/Starter/views/header.php:26
+msgid "Descending Order"
+msgstr ""
+
+#: src/Templates/Compact/views/header.php:34
+#: src/Templates/Filter/views/header.php:27
+#: src/Templates/Flat/views/header.php:27
+#: src/Templates/Simple/views/header.php:25
+#: src/Templates/Singular/views/header.php:25
+#: src/Templates/Starter/views/header.php:27
+msgid "Ascending Order"
+msgstr ""
+
+#: src/Templates/Filter/views/breadcrumb.php:5
+msgid "Reset filter"
+msgstr ""
+
+#: src/Templates/Filter/views/sidebar.php:6
+msgid "Categories"
+msgstr ""
+
+#: src/Templates/Filter/views/sidebar.php:8
+#: src/Templates/Filter/views/sidebar.php:37
+msgid "Search..."
+msgstr ""
+
+#: src/Templates/Filter/views/sidebar.php:15
+msgid "Match"
+msgstr ""
+
+#: src/Templates/Filter/views/sidebar.php:15
+msgid "Any"
+msgstr ""
+
+#: src/Templates/Filter/views/sidebar.php:15
+msgid "All"
+msgstr ""
+
+#: src/Templates/Filter/views/sidebar.php:22
+msgid "Filter Date Range"
+msgstr ""
+
+#: src/Templates/Filter/views/sidebar.php:27
+msgid "Published"
+msgstr ""
+
+#: src/Templates/Filter/views/sidebar.php:28
+msgid "Updated"
+msgstr ""
+
+#: src/Templates/Filter/views/sidebar.php:35
+msgid "Tags"
+msgstr ""
+
+#: src/Templates/Filter/views/sidebar.php:55 src/init.php:28
+msgid "Download Count"
+msgstr ""
+
+#: src/Templates/Filter/views/sidebar.php:63 src/init.php:27
+msgid "View Count"
+msgstr ""
+
+#: src/Templates/Flat/views/aps-content-cat.php:81
+#: src/Templates/Flat/views/flat.php:90
+msgid "View Details"
+msgstr ""
+
+#: src/Templates/Flat/views/flat.php:32
+msgid "Loading..."
+msgstr ""
+
+#: src/Templates/Flat/views/flat.php:37
+msgid "Newest Items"
+msgstr ""
+
+#: src/Templates/SimpleSearch/views/simple-search-form.php:5
+msgid "Search Package"
+msgstr ""
+
+#: src/__/__.php:255
+msgid "No downloads found!"
+msgstr ""
+
+#: src/__/__.php:378
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: src/init.php:24
+msgid "Publish Date"
+msgstr ""
+
+#: src/init.php:25
+msgid "Title"
+msgstr ""
+
+#: src/init.php:26
+msgid "Last Updated"
+msgstr ""
+
+#: src/init.php:29
+msgid "Package Size"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WPDM - Archive Page"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.wpdownloadmanager.com/download/wpdm-directory-add-on/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add archive page option with wordpress download manager"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WordPress Download Manager"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.wpdownloadmanager.com/"
+msgstr ""
